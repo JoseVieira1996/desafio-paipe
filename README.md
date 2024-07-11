@@ -48,7 +48,7 @@ Da maneira como foi configurado o Spring, após a 1ª requisição, serão criad
 
 **Swagger**
 
-http://localhost:8089/v3/api-docs e http://localhost:80869/swagger-ui/index.html
+http://localhost:8089/v3/api-docs e http://localhost:8089/swagger-ui/index.html
 
 
 
